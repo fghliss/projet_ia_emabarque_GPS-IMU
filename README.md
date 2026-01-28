@@ -71,6 +71,3 @@ Le dépôt contient **deux implémentations distinctes**, chacune accompagnée d
 
 ---
 
-
-
----
