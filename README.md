@@ -42,8 +42,8 @@ Le dépôt contient **deux implémentations distinctes**, chacune accompagnée d
   - Estimation de trajectoire
   - Analyse de la dérive en cas de coupure GPS
 - **Fichiers** :
-  - `lstm_fusion_pose.py`
-  - `lstm_fusion_pose.onnx`
+  - `lstm-fusion_pose.py`
+  - `lstm-fusion_pose.onnx`
 
 ---
 
@@ -57,8 +57,8 @@ Le dépôt contient **deux implémentations distinctes**, chacune accompagnée d
   - Estimation conjointe de la pose et de la vitesse
   - Amélioration de la stabilité en auto-régression
 - **Fichiers** :
-  - `lstm_fusion_pose_speed.py`
-  - `lstm_fusion_pose_speed.onnx`
+  - `lstm-fusion_pose_vitesse.py`
+  - `lstm-fusion_pose_vitesse.onnx`
 
 ---
 
